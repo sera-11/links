@@ -250,8 +250,9 @@ body {
   flex-grow: 1;
 }
 
-.links:hover{
-  color: #783a5f; 
+.links a:hover{
+  background: #5A5C6C;
+  color: #fff;
 }
 
 .items {
